@@ -16,8 +16,8 @@ A passionate developer with a love for all things tech. Let's embark on a journe
 
 ## 🔧 Technologies & Tools
 
-![Languages](https://img.shields.io/badge/Languages-Language1,%20Language2,%20Language3-%23FFFFFF)
-![Tools](https://img.shields.io/badge/Tools-Tool1,%20Tool2,%20Tool3-%23FFFFFF)
+![Languages](https://img.shields.io/badge/Languages-C,%20C++,%20CORE JAVA-%23FFFFFF)
+![Tools](https://img.shields.io/badge/Tools-SQL,%20Tool2,%20Tool3-%23FFFFFF)
 ![Frameworks](https://img.shields.io/badge/Frameworks-Framework1,%20Framework2,%20Framework3-%23FFFFFF)
 
 ## 🌟 Featured Projects
