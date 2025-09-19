@@ -22,13 +22,7 @@ A passionate developer with a love for all things tech. Let's embark on a journe
 
 
 
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/YourProfile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/YourProfile)
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-blue)](https://yourwebsite.com)
-
----
 
 _Thank you for visiting my GitHub profile! Let's build something amazing together. ✨_
 
