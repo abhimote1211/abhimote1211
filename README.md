@@ -14,13 +14,6 @@ A passionate developer with a love for all things tech. Let's embark on a journe
 - 💬 Ask me about: Coding Notes
 - 📫 How to reach me: abhishekmote1211@gmail.com
 
-## 🔧 Technologies & Tools
-
-![Language](https://img.shields.io/badge/Languages-C,%20 C++,%20 CORE JAVA-%23FFFFFF)
-![Tools](https://img.shields.io/badge/Tools-SQL,%20Tool2,%20Tool3-%23FFFFFF)
-![Frameworks](https://img.shields.io/badge/Frameworks-Framework1,%20Framework2,%20Framework3-%23FFFFFF)
-
-
 
 
 
